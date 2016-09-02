@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+@import url('https://fonts.googleapis.com/css?family=Exo');
 h1 {
   color: MediumSeaGreen;
+  font-family: 'Exo', sans-serif;
+}
+p {
+  font-family: 'Shadows Into Light', cursive
 }
