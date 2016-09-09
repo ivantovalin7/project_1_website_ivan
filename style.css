@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo+Paaji');
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 h1 {
-text-align:center;
   color: MediumSeaGreen;
   font-family: 'Exo', sans-serif
 }
@@ -23,5 +22,5 @@ div {
   margin: 5px;
 }
 body {
-  background-image: url(http://apod.nasa.gov/apod/image/1609/Mars_RhoOphiuchi_2016-08-26.jpg)
+  background-image: url(http://apod.nasa.gov/apod/image/1609/M8-8-25-16-webMillerWalker2048.jpg)
 }
